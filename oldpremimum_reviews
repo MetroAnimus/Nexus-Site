@@ -1,0 +1,51 @@
+[ Developers of this website DO NOT DELETE!]
+
+<div class="section background-dark-grey">
+    <div class="wrapper">
+        <div class="wrapper _600-width text-align-center">
+            <div class="subtitle">Reviews</div>
+            <h3>See what our customers say</h3>
+        </div>
+        <div class="reviews-grid">
+            <div class="review-card">
+                <h6>Cool bot!</h6>
+                <p class="small-paragraph">Best bot on discord one of my fav bot one of the best bot in discord for music and with high quality music and the autoplay of earth is op add only 2 songs in the queue and it will autoplay my fav songs the best music bot ever <3</p>
+                <div class="review-person"><img src="https://cdn.discordapp.com/attachments/931650818636152895/978689401146191943/unknown.png" loading="lazy" alt="" class="review-person-image" />
+                    <div class="review-person-details">
+                        <div class="review-person-name">! BTⴽ † ⴽX † ᴸˢ HΛⴽSH <$</div>
+                    </div>
+                </div>
+            </div>
+            <div class="review-card">
+                <h6>I can&#x27;t imagine life without Earth.</h6>
+                <p class="small-paragraph">Best bot on discord one of my fav bot one of the best bot in discord for music & 24/7 too 😎</p>
+                <div class="review-person"><img src="https://cdn.discordapp.com/attachments/931650818636152895/978688283687137320/unknown.png" loading="lazy" alt="" class="review-person-image" />
+                    <div class="review-person-details">
+                        <div class="review-person-name">Ren Amamiya</div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="review-card">
+                <h6>Best discord bot <3.</h6>
+                <p class="small-paragraph">i haven't seen anyone doing a long review of this bot but really not much words are needed! super cooooollll i was struggling with another bot earlier and decided to invite earth and i'm so glad i did!! easy commands, lots of features, lots of options! keep it up <3 YOU ROCK!!!!!</p>
+                <div class="review-person"><img src="https://cdn.discordapp.com/attachments/931650818636152895/978688782939345016/unknown.png" loading="lazy" alt="" class="review-person-image" />
+                    <div class="review-person-details">
+                        <div class="review-person-name">Earth Mother</div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="review-card">
+                <h6>The best bot that I&#x27;ve ever used!</h6>
+                <p class="small-paragraph">Really god bot,bots these days disconnect,or dont even play the song.This bot does not stop. It plays great quality 24/7.Perfect for my chill radio.Trully amazing.I like how its not so easy to get 24/7 for free. You need to vote first.But it's really worth giving it a shot!</p>
+                <div class="review-person"><img src="https://cdn.discordapp.com/attachments/959057769179267092/978688079701356565/unknown.png" loading="lazy" alt="" class="review-person-image" />
+                    <div class="review-person-details">
+                        <div class="review-person-name">KingThePurpleMoon</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
